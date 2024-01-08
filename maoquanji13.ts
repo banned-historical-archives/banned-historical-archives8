@@ -2735,5 +2735,6 @@ export default {
     }
   },
   "parser_id": "automation",
-  "path": "/archives8/maoquanji13.pdf"
+  "path": "/archives8/maoquanji13.pdf",
+  "resource_type": "book"
 }

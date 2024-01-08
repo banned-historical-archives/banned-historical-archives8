@@ -4475,5 +4475,6 @@ export default {
     }
   },
   "parser_id": "automation",
-  "path": "/archives8/maoquanji23.pdf"
+  "path": "/archives8/maoquanji23.pdf",
+  "resource_type": "book"
 }
