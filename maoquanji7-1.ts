@@ -640,7 +640,7 @@ export default {
     }
   },
   "parser_id": "automation",
-  "path": "/archives8/maoquanji7-1.pdf",
+  "path": "maoquanji7-1.pdf",
   "resource_type": "book",
   "version": 2
 }

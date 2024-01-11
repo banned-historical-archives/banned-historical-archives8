@@ -303,7 +303,7 @@ export default {
     }
   },
   "parser_id": "automation",
-  "path": "/archives8/maoquanji4-2.pdf",
+  "path": "maoquanji4-2.pdf",
   "resource_type": "book",
   "version": 2
 }

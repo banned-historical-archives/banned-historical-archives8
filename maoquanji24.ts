@@ -4094,7 +4094,7 @@ export default {
     }
   },
   "parser_id": "automation",
-  "path": "/archives8/maoquanji24.pdf",
+  "path": "maoquanji24.pdf",
   "resource_type": "book",
   "version": 2
 }

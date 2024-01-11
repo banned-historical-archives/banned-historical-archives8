@@ -3906,7 +3906,7 @@ export default {
     }
   },
   "parser_id": "automation",
-  "path": "/archives8/maoquanji26.pdf",
+  "path": "maoquanji26.pdf",
   "resource_type": "book",
   "version": 2
 }
