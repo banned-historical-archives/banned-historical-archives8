@@ -1,5 +1,5 @@
 export default {
-  "entity": {
+  "entity": { 
     "id": "maoquanji1",
     "name": "毛泽东全集第1卷",
     "internal": false,
